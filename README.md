@@ -20,6 +20,6 @@ Table
 | A | B | C |
 | d | e | f | 
 
-**BOLD**
-*ITALIC*
-~~CROSS~~
+> **BOLD**
+> *ITALIC*
+> ~~CROSS~~
